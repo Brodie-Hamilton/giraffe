@@ -64,7 +64,7 @@
 }
 
 .search-bar::before {
-  content: url("search.svg");
+  content: url("/public/search.svg");
   opacity: 0.3;
   margin-top: 2px;
   position: absolute;
